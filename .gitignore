@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+sanalOrtam
+db.sqlite3
+.DS_Store
+
